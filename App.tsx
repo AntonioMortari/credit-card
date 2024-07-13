@@ -1,10 +1,8 @@
-import { Text } from 'react-native';
+import { Payment } from '@/app/payment';
 
 const App = () => {
   return (
-    <>
-      <Text>Hello, World :)</Text>
-    </>
+    <Payment />
   );
 }
 
